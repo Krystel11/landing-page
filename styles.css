@@ -1,6 +1,7 @@
 .header {
-    align-items: center;
+    display: flex;
     justify-content: center;
+    align-items: center;
     gap: 14cm;
 }
 ul, li, a {
@@ -147,8 +148,6 @@ body {
     background-color: #1F2937;
     color:white;
     padding: 16px;
-    display: flex;
-   justify-content: space-between;
 }
 .footer {
     justify-content: center;
